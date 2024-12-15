@@ -8,4 +8,4 @@
     1. Inexpensive
     2. Minimal power draw
 5. Performant
-    1.+ Best antenna performance possible
+    1. Best antenna performance possible
