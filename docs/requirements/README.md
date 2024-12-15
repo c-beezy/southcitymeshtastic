@@ -2,6 +2,7 @@
 
 1. Durable
     1. Weatherproof
+    2. Sturdy
 2. Self-Powered
 3. Remotely maintainable
 4. Efficient
