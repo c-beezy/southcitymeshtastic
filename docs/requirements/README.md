@@ -14,7 +14,7 @@
 
 ## 1. Durability
 
-The node enclosure should be built for outdoor placement.
+The node enclosure must be built for outdoor placement.
 
 It should be gasketed, and any holes or penetrations should be sealed by either a tight-fitting cable gland or some other moisture barrier like butyl, caulk, or hot glue.
 
@@ -26,7 +26,7 @@ The enclosure must discourage curiosity by not appearing threatening or valuable
 
 ## 2. Self-Powered
 
-The node must include the capability to power itself, i.e. a solar panel that provides enough DC power to run the board plus charge a battery. 
+The node must include the capability to power itself, i.e. a solar panel that provides enough DC power to run the board plus charge a battery.
 
 The battery system must have enough reserve power for at least one week of continuous operation to account for snow load on the panel.
 
@@ -38,12 +38,10 @@ The node should be able to be upgraded/flashed without touching the enclosure (i
 
 ## 4. Efficient
 
-The complete assembly must be as cheap as possible.
+The complete assembly must be as cheap as possible, ideally under a hundred dollars per installation.
 
 The node components should be chosen to consume as little power as possible, to reduce the size and cost of the power subsystems.
 
 ## 5. Performant
 
-Nodes must be made with good-performing omnidirectional antennas that are mounted in a way that minimizes attenuation. 
-
-
+Nodes must be designed with good-performing omnidirectional antennas that are mounted in a way that minimizes attenuation.
