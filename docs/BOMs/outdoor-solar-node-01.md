@@ -1,8 +1,5 @@
 # Outdoor Solar-Powered Meshtastic Node v0.1
 
-| Part | Description | Price | URL |
-|------|-------------|-------|-----|
-
 ## Board
 
 <https://www.amazon.com/cart/smart-wagon?newItems=e024b506-4efe-45f0-a756-5e031312c587,1&ref_=sw_refresh> WizBlock Mini $31
