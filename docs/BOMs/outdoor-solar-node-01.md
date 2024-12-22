@@ -2,33 +2,32 @@
 
 ## Board
 
-<https://www.amazon.com/cart/smart-wagon?newItems=e024b506-4efe-45f0-a756-5e031312c587,1&ref_=sw_refresh> WizBlock Mini $31
+[Rakwireless Wisblock RAK19007](https://www.amazon.com/dp/B0CHKZJK9C/?coliid=IUYANHWRQD7WS&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $31
 
 ## Project Box
-
-<https://www.amazon.com/gp/product/B09N7LB65M/ref=ewc_pr_img_2?smid=A1RI6765E3JO8L&th=1>  $14
-or
-<https://www.amazon.com/gp/product/B0D7S87P81/ref=ewc_pr_img_3?smid=A3LCZKVT98E822&psc=1> $10
+[LeMotech Junction Box, Electrical Box IP65 Water Resistant Dustproof ABS Plastic Project Enclosure for Electronics White, External Size 5.9 x 4.3 x 2.8 inch](https://www.amazon.com/dp/B09VDBZFP2/) $8.59
 
 ## Solar Panel
 
-<https://www.amazon.com/gp/product/B0CJ5CH57P/ref=ewc_pr_img_1?smid=A2X1M8GXHBALLU&th=1> $19
+[6W Solar Panel Charger ](https://www.amazon.com/dp/B0CJ5CH57P/?coliid=I2V48E29O8I457&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $19
 
 ## Antenna
 
-<https://www.amazon.com/Network-AOA-915-5ACM-Outdoor-802-11ah-Application/dp/B08H8J6ZV6/> $17
+[ALFA Network AOA-915-5ACM 5dBi Outdoor Antenna](https://www.amazon.com/dp/B08H8J6ZV6/?coliid=IILODRWLNSAAD&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $17
 
 ## Antenna Cable
 
-<https://www.amazon.com/Superbat-Bulkhead-Applications-Stations-Wireless/dp/B0CRCZ2JG3/>  $6
+[Superbat UF.L/IPX Female to N Type Female Bulkhead Mount Pigtail](https://www.amazon.com/dp/B0CRCZ2JG3/?coliid=I14F8VO5ADIPKM&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)  $6
 
 ## Battery
 
-https://www.amazon.com/KBT-3-7V-3500mAh-Li-Polymer-Battery/dp/B0BJPSH5P7/ $9-13
+### NOTE: BATTERY POLARITY ON MOST JST PLUG BATTERIES IS OPPOSITE FROM WHAT WISBLOCK EXPECTS. PLAN ON REVERSING THE LEADS OR YOU WILL COOK THE BOARD.
+
+[KBT 3.7V 3500mAh LiPo Battery](https://www.amazon.com/dp/B0BJPSH5P7/?coliid=I1C1IOOCJ82DD8&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $9-13
 
 ## GPS Module 
 
-<https://www.amazon.com/DWEII-GY-NEO6MV2-NEO6MV2-Control-Antenna/dp/B0BBM3MSJV/>  NEO6MV2 3x $5
+GPS deleted from spec
 
 ## (opt Battery clip/mount/box)
 
