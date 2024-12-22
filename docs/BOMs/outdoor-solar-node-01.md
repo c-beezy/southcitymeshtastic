@@ -5,11 +5,12 @@
 [Rakwireless Wisblock RAK19007](https://www.amazon.com/dp/B0CHKZJK9C/?coliid=IUYANHWRQD7WS&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $31
 
 ## Project Box
+
 [LeMotech Junction Box, Electrical Box IP65 Water Resistant Dustproof ABS Plastic Project Enclosure for Electronics White, External Size 5.9 x 4.3 x 2.8 inch](https://www.amazon.com/dp/B09VDBZFP2/) $8.59
 
 ## Solar Panel
 
-[6W Solar Panel Charger ](https://www.amazon.com/dp/B0CJ5CH57P/?coliid=I2V48E29O8I457&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $19
+[6W Solar Panel Charger](https://www.amazon.com/dp/B0CJ5CH57P/?coliid=I2V48E29O8I457&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $19
 
 ## Antenna
 
@@ -21,11 +22,11 @@
 
 ## Battery
 
-### NOTE: BATTERY POLARITY ON MOST JST PLUG BATTERIES IS OPPOSITE FROM WHAT WISBLOCK EXPECTS. PLAN ON REVERSING THE LEADS OR YOU WILL COOK THE BOARD.
+## NOTE: BATTERY POLARITY ON MOST JST PLUG BATTERIES IS OPPOSITE FROM WHAT WISBLOCK EXPECTS. PLAN ON REVERSING THE LEADS OR YOU WILL COOK THE BOARD
 
 [KBT 3.7V 3500mAh LiPo Battery](https://www.amazon.com/dp/B0BJPSH5P7/?coliid=I1C1IOOCJ82DD8&colid=POAD9GZVGW3F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) $9-13
 
-## GPS Module 
+## GPS Module
 
 GPS deleted from spec
 
@@ -33,7 +34,8 @@ GPS deleted from spec
 
 ## (opt Mounting hardware)
 
-## List:
+## List
+
 <https://www.amazon.com/hz/wishlist/ls/POAD9GZVGW3F?ref_=list_d_wl_lfu_nav_8>
 
 Total BOM cost (minus mounting hardware) $101
