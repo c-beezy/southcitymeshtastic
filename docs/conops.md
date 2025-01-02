@@ -31,5 +31,7 @@ In Meshtastic, the concept of a [Channel](https://meshtastic.org/docs/configurat
 
 The upshot of this is that it allows ZSNet nodes to serve the public for whatever they want to do with Meshtastic, while simultaneously also enables ZSNet (and more generally all Meshtastic) users to configure their own chat channels with their own keys for more private communications.
 
-The default Meshtastic configuration 
+## Mesh Management
+
+Meshtastic allows for remote management of mesh nodes via the LoRa mesh, with commands authenticated via public-key encryption. All Meshtastic nodes generate a unique key pair.  Nodes that will be managed remotely can be given a list of public keys for Meshtastic devices that are allowed to send remote commands to it. This security is augmented by using a private pre-shared key for the "Primary" channel of nodes on our network, to keep administrative and telemetry data out of the public datastream. This security model is by no means perfect, but with some good planning the risks can be mitigated to acceptable limits.
 
