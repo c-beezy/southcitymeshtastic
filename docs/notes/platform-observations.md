@@ -17,9 +17,8 @@ Currently the Heltec T114 board is my favorite handheld Meshtastic device and wh
 
 ## SoC Families
 
-
-| Feature | ESP32 | NRF52| Winner |
-| ------ | ------- | ------ |
+| Feature | ESP32 | NRF52 | Winner |
+| ------- | ----- | ----- | ------ |
 | Idle Power (as tested) | .5W (heltec v3) | 0.003W (T114) | NRF52 |
 | Max Power  |  |  |  |
 | Coremark CPU | 660 | 215 | ESP32 |
@@ -35,9 +34,9 @@ In my direct experience, a battery that can power a NRF52 device for several day
 
 Meshtastic does a poor job of utilizing the ESP32's baked-in WiFi functionality, and it should be discounted as an added benefit for most Meshtastic applications unless someone has a specific project requimement to utilize it.
 
-### Heltec v3 
+### Heltec v3
 
-The Heltec v3 is a tiny ESP32 board that is extremely low-cost. Like most others my first Meshtastic experience was buying a pair of these on amazon to play with.  The boards are certainly capable but the battery drain on portable devices makes them chunky and shorter-lived than they should be.  I might re-use a Heltec board as a USB-powered desktop node in the future but these are my least favorite Meshtastic-capable device at the current time. 
+The Heltec v3 is a tiny ESP32 board that is extremely low-cost. Like most others my first Meshtastic experience was buying a pair of these on amazon to play with.  The boards are certainly capable but the battery drain on portable devices makes them chunky and shorter-lived than they should be.  I might re-use a Heltec board as a USB-powered desktop node in the future but these are my least favorite Meshtastic-capable device at the current time.
 
 ### LILYGO T-Deck
 
@@ -51,15 +50,15 @@ On a hardware level, the NRF52 is a lower spec CPU vs the ESP32 with a concurren
 
 ### RAK WisBlock
 
-The WisBlock family of NRF52 boards are a modular family of systems that allows for dozens of hardware capabilities to be easily snapped onto a baseboard via hardware modules with proprietary socketed connectors. This is far easier than soldering to header pins but comes at an increased cost that in some cases is hard to justify. (as an example, their socketed GNSS module costs 3x what other modules do). Wisblock has the distinction of being one of the few boards that doesnt ship by default with a display, it must be ordered for an additional fee. Both Bluetooth and Lora radios have external antenna connectors, and BLE performance is much improved vs other devices with the RAK-supplied full antenna. 
+The WisBlock family of NRF52 boards are a modular family of systems that allows for dozens of hardware capabilities to be easily snapped onto a baseboard via hardware modules with proprietary socketed connectors. This is far easier than soldering to header pins but comes at an increased cost that in some cases is hard to justify. (as an example, their socketed GNSS module costs 3x what other modules do). Wisblock has the distinction of being one of the few boards that doesnt ship by default with a display, it must be ordered for an additional fee. Both Bluetooth and Lora radios have external antenna connectors, and BLE performance is much improved vs other devices with the RAK-supplied full antenna.
 
-I started out absolutely loving the WisBlock boards and have so far built 2 solar-powered outdoor nodes using them, one with a WisBlock 19007 and one with a WisBlock Mini 19003. While the 19007 has been very straightforward to work with, the 19003 has undergone some changes that enhance usability with the proprietary RAK modules while making it harder to integrate devices via the header pins. Due to this difficulty, I have decided to not ever use a 19003 baseboard again, and will only use the 19007 moving forward. 
+I started out absolutely loving the WisBlock boards and have so far built 2 solar-powered outdoor nodes using them, one with a WisBlock 19007 and one with a WisBlock Mini 19003. While the 19007 has been very straightforward to work with, the 19003 has undergone some changes that enhance usability with the proprietary RAK modules while making it harder to integrate devices via the header pins. Due to this difficulty, I have decided to not ever use a 19003 baseboard again, and will only use the 19007 moving forward.
 
 ### LILYGO T-Echo
 
 The T-Echo with an e-ink display is probably the lowest-power device with a display that has yet been made available for Meshtastic use. For new users this is my default device reccomendation as it comes out of the box ready to go and has good performance and longevity. Having an external antenna is an immediate benefit.
 
-### Heltec T114 
+### Heltec T114
 
 The T114 is something I have only recently started working with but my experience is completely positive at this time. This NRF52 board is relatively cheap, can be purchased either with or without a large and bright color OLED, and is the same tiny size as the Heltec v3 board.
 
