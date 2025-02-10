@@ -16,17 +16,17 @@ If you use a YAML template, you can easily send a whole configuration to the dev
 
 `meshtastic --config <configfile.yaml>`
 
-and it will ingest all the settings before doing a reboot. 
+and it will ingest all the settings before doing a reboot.
 
 There is a sanitized version of the file [here](./cli-config.md).
 
-### Completing the YAML File and flashing it.
+### Completing the YAML File and flashing it
 
 0. Rename the file `zs[XX]config.yaml` where [xx] is the numeric designation of your node.
 1. Replace anything that has been [REDACTED] with data from [here](./sensitive-credentials.md). As of the time of writing this will be the `channel_url`, `fixedPin`, and `adminKey` fields.
 2. replace the [XX] in the `owner` and `owner short` fields with the numeric designation of your node. (e.g., `Zulu Siera 07` and `ZS07`, etc).
 3. Save the file.
-4. Run `meshtastic --config `zs[XX]config.yaml` to send the configuration to the node and reboot it. 
+4. Run `meshtastic --config zs[XX]config.yaml` to send the configuration to the node and reboot it.
 
 ### Testing the new configuration
 
