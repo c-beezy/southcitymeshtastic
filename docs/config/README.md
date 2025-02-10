@@ -5,8 +5,9 @@ For the initial configuration guidance, I've decided to stick with the web UI fo
 - Needing working internet access to get the config interface to come up
 - Needs a Chromium-based (Chrome/Chromium/Edge/etc) browser to connect to the USB port or Bluetooth via the browser
 
-In the long term I would prefer to flash and configure devices via the [Python-based meshtastic CLI](https://meshtastic.org/docs/software/python/cli/).
+Config instructions for the v1 node (WisBlock-based) [are here](./wisblock-v1-config.md).
 
 The Python environment has about the average level of PITA dependencies to set up but has the advantage over the WebUI of not requiring working Internet access to load the configuration interface.
 
-Config instructions for the v1 node (WisBlock-based) [are here](./wisblock-v1-config.md).
+Python CLI configuration instructions for a new node [are here](./cli-config.md).
+
