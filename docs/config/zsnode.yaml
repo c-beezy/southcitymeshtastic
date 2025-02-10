@@ -1,0 +1,34 @@
+# start of Meshtastic configure yaml
+channel_url: [REDACTED]
+config:
+  bluetooth:
+    enabled: true
+    fixedPin: [REDACTED]
+    mode: FIXED_PIN
+  device:
+    nodeInfoBroadcastSecs: 10800
+  display:
+    screenOnSecs: 600
+  lora:
+    channelNum: 20
+    hopLimit: 3
+    ignoreMqtt: true
+    region: US
+    sx126xRxBoostedGain: true
+    txEnabled: true
+    txPower: 30
+    usePreset: true
+  position:
+    gpsMode: NOT_PRESENT
+  power:
+    lsSecs: 300
+    minWakeSecs: 10
+    sdsSecs: 4294967295
+    waitBluetoothSecs: 60
+  security:
+    adminKey:
+    - base64:[REDACTED]
+    - base64:[REDACTED]
+    serialEnabled: true
+owner: Zulu Sierra [XX]
+owner_short: ZS[xx]
