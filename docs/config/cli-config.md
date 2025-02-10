@@ -18,7 +18,7 @@ If you use a YAML template, you can easily send a whole configuration to the dev
 
 and it will ingest all the settings before doing a reboot.
 
-There is a sanitized version of the file [here](./cli-config.md).
+There is a sanitized version of the file [here](./zsnode.yaml).
 
 ### Completing the YAML File and flashing it
 
