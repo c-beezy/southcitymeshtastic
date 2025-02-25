@@ -21,3 +21,4 @@ To accomplish these goals we will define, build, and deploy weatherproof, self-p
 ## Verified Working Builds
 
 - [Solar-Powered WisBlock v1](./docs/BOMs/outdoor-solar-node-01.md) based on [RAKWirelss WisBlock Meshtastic Starter Kit](https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?m=6&h=meshtastic&utm_source=store_collection&utm_medium=organic&utm_campaign=meshtastic_collection&variant=43884034621638)
+- [Solar-Powered Heltec T114v2](./docs/BOMs/outdoor-solar-node-02.md) based on the no-display Heltec T114v2
