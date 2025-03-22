@@ -18,7 +18,8 @@ We want the mesh to be as good as possible as cheaply as possible. LoRa will go 
 
 - [RF Line of Sight](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 - [Path Profiler](https://www.heywhatsthat.com/profiler.html)
-
+- [Path Profiler for multiple radios](https://www.scadacore.com/tools/rf-path/rf-line-of-sight-for-multiple-radios/)
+  
 The initial sites for our nodes will probably necessarily be "on top of the houses of people willing to build nodes" but since its as yet undetermined who will build nodes, no projected mesh map is available at this time.
 
 Meshtastic networks are self-organizing and self-healing once nodes are given an initial config, so our ongoing maintenance work should be limited to making sure they are still charging properly. The goal is for the node telemetry and health to be available via the LoRa mesh, over an encrypted channel and admin function, so the only time we need to physically touch the node is to update firmware or perform a hardware repair (which will hopefully be a relatively rare occurence)
